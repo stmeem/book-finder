@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/book-finder/static/css/main.df8ae88b.chunk.css",
+    "main.js": "/book-finder/static/js/main.4ba35c63.chunk.js",
+    "main.js.map": "/book-finder/static/js/main.4ba35c63.chunk.js.map",
+    "runtime-main.js": "/book-finder/static/js/runtime-main.7034a5e1.js",
+    "runtime-main.js.map": "/book-finder/static/js/runtime-main.7034a5e1.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/book-finder/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.fe0527a0.chunk.js": "/book-finder/static/js/2.fe0527a0.chunk.js",
+    "static/js/2.fe0527a0.chunk.js.map": "/book-finder/static/js/2.fe0527a0.chunk.js.map",
+    "index.html": "/book-finder/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/book-finder/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.df8ae88b.chunk.css.map": "/book-finder/static/css/main.df8ae88b.chunk.css.map",
+    "static/js/2.fe0527a0.chunk.js.LICENSE.txt": "/book-finder/static/js/2.fe0527a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7034a5e1.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.fe0527a0.chunk.js",
+    "static/css/main.df8ae88b.chunk.css",
+    "static/js/main.4ba35c63.chunk.js"
+  ]
+}
