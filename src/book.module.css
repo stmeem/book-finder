@@ -1,0 +1,35 @@
+.book {
+    width: 25rem;
+    margin: 3rem;
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    border: 1px solid rgba(0,0,0,.125);
+    background-color:rgb(255, 255, 255);
+    color: black;
+  }
+  .image {
+    width: 15rem;
+    height: 15rem;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+  }
+  .text{
+      font-size:15px;
+      color: rgb(182, 182, 182);
+  }
+  .myStyle {
+    border: none;
+    background: rgb(226, 122, 174);;
+    padding: 12px 20px;
+    color: white;
+    border-radius: 5px;
+  }
+  .linkStyle {
+    color: white;
+    text-decoration: none;
+  }
+  .linkStyle:hover {
+    text-decoration: none;
+    color:rgb(238, 192, 215);
+  }

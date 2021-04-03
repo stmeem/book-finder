@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Josefin Sans', cursive,sans-serif;
+
+}
+.App {
+  min-height: 100vh;
+  background-color:#fff;
+}
+.header{
+  background-color:rgb(226, 122, 174);
+  color: #fff;
+  font-family: 'Anton', sans-serif;
+  padding: 0.5rem 0 0.5rem 0;
+}
+.fontStyle{
+  font-family: 'Josefin Sans', cursive,sans-serif;
+}
+.cards{
+  width: 70rem;
+  margin-left: 3rem;
+  margin-right: 5rem;
+  position: relative;
+    display: flex;
+    flex-wrap:wrap;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border-radius: .25rem;   
+}
+.form {
+  margin-top: 4rem;
+  min-height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.input {
+  width: 50%;
+  border: none;
+  padding: 12px;
+  border: 1px solid #ccc;
+  margin-right: 6px;
+  border-radius: 5px;
+}
+.search {
+  border: none;
+  background: rgb(226, 122, 174);
+  padding: 12px 20px;
+  color: white;
+  border-radius: 5px;
+}
+.search:hover {
+  color:rgb(238, 192, 215);
+}
+.footer-copyright{
+  color: rgb(226, 122, 174);
+   margin-top: 5rem;
+   left: 0;
+   margin-bottom: 2rem;
+   width: 100%;
+   text-align: center;
+}
